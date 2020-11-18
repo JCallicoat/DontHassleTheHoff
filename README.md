@@ -4,7 +4,7 @@ A .net David Hasselhoff screensaver
 
 This was created like 8 years ago to troll people at work who left their computer unlocked.
 
-Recently rebuilt with current mono, so should work on linux. Probably needs mono installed on Mac as the packaged mono binary is built for linux.
+Recently rebuilt with current mono, so should work on linux (and probably Windows by just double-clicking ScreenSaver.exe from file explorer). Probably needs mono installed on Mac as the packaged mono binary is built for linux.
 
 Download the hoff.tar.xz, extract it, cd to release/, execute ./run.sh and the "screensaver" should start.
 
